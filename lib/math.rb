@@ -15,7 +15,8 @@ num1 * num2
 end
 
 def modulo(num1, num2)
-num1 / num2
+quotient = num1 / num2
+remainder = quotient - 
 end
 
 def square_root(num)
